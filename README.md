@@ -1,1 +1,1 @@
-# car-crash-detection-system
+# vehicle-crash-detection-system
