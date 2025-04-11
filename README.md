@@ -38,9 +38,3 @@ Welcome to the *Vehicle Crash Detection System* — a smart embedded project tha
 4. The LCD shows a visual alert: *“Accident Alert”*.
 
 ---
-
-## ⚙ Setup & Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/jithurx/vehicle-crash-detection-system
