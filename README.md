@@ -24,8 +24,6 @@ Welcome to the *Vehicle Crash Detection System* — a smart embedded project tha
 - Accelerometer (for crash detection)
 - LCD Display
 - Push Button (for manual alert)
-- Jumper Wires
-- Breadboard or PCB
 - Power Supply (Battery)
 
 ---
@@ -35,6 +33,5 @@ Welcome to the *Vehicle Crash Detection System* — a smart embedded project tha
 1. The accelerometer detects sudden changes in motion or impact.
 2. The GPS module fetches the current location.
 3. The GSM module sends an alert message with the location to predefined contacts.
-4. The LCD shows a visual alert: *“Accident Alert”*.
 
 ---
