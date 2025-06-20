@@ -112,4 +112,4 @@ Connect your Arduino to your computer, select the correct Board and Port in the 
 
 ---
 
-Feel free to fork this project, contribute, or use it as a foundation for your own safety innovations
+Feel free to fork this project
